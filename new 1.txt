@@ -1,0 +1,40 @@
+<html>
+<head>
+</head>
+<title>
+ just DANCE.
+</title>
+<body bg color="cyan">
+
+
+<p><u><b>dance</B></U></p>
+<img src="C:\Users\GIRLS CODING\Desktop\iman\th.jpg">
+
+<p>nesscesary dance cloths</p>
+<p>when you walk in just dance you are walking out with topnotch dance skills. here in just dance we teach hip hop to children and even adults out there.</p> 
+
+
+<img src="C:\Users\GIRLS CODING\Desktop\iman\th(3).jpg">
+<img src="C:\Users\GIRLS CODING\Desktop\iman\th(4).jpg">
+<img src="C:\Users\GIRLS CODING\Desktop\iman\th(1).jpg">
+<img src="C:\Users\GIRLS CODING\Desktop\iman\th.jpg">
+
+
+<p><u>TESTIMONIAL</u></P>
+<h2><u>mariam: Ilove just dance</u>
+<h2><u>aliyah:I have learnt the best dance moves</u>
+<h2><u>tominsin: I cant wait to become the best dancer thanks to just dance</u>
+<h1><u>alimot:I want to be as good as coach Iman</u>
+
+<fieldset>
+<legend>CONTACT DETAIL</legend>
+<label>Name:<br />
+<input type="text">
+<label>email:<br />
+<input type="text">
+<label>phone no:<br />
+<input type="text">
+</body>
+</html>
+
+

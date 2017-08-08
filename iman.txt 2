@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+     <title>my first project</title>
+</head>
+<body style="background-color:cyan;">
+<form>
+<strong>first name</strong><br><br>
+<input type="text" value="iman"><br><br>
+<p>password</p>
+<input type="password value="iman"><br><br>
+<p>email</p>
+<input type="email" value ="imanashisulaiman@gmail.com"><br><br>
+<p>birthday</p>	 
+<input type = "date"><br><br>
+<p>gender</p>
+<input type = "radio"name ="gender"checked>female
+<input name ="radio"name="gender">male
+<p>hobbies</p>
+<input type ="checkbox"name ="hobbies"checked>dancing
+<input type ="checkbox"name ="hobbies"checked>reading
+<input type ="checkbox"name ="hobbies"checked>singing
+<input type ="checkbox"name ="hobbies"checked>writing
+<input type ="checkbox"name ="hobbies"checked>cooking
+<input type="color"><br>
+<p>age</p>
+<input type="number"><br><br>
+<img src="C:\Users\GIRLS CODING\Desktop\up.jpg"height="300px"width="650px>
+<input type="submit">
+</form>
+</body>
+</html>

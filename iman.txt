@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>
+letter writing
+</title>
+<style type="text/css">
+.image{
+float:left;
+}
+.text{
+float right;
+border : 13px blue
+</syle>
+<p>dear favour</p>
+<how are you and how is the family . hope you all are doing fine . hope ona is not disturbing you . als kamsi that naughty boy . tell him i said he should stop disturbing you .</p>
+<p> i am writing this letter based on the news i received that your mother gave birth to a baby girl. i heard her name is osinachi . how is she hope she will be coming to lebanese international school when she is older.</p>
+<p>i will also like to say that hope your mum is feeling okay after the birth of the baby girl. my regards to your aunt </p>
+<p>your bestie iman </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+</html>
